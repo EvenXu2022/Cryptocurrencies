@@ -13,13 +13,13 @@ Since the clusters of unsupervised are unknown, K-Mean is to iterate k values fr
 ### Visualizing Cryptocurrencies Results
 3D Scatter clearly demonstrates the data into 4 class
 
-<img src = "images/Cryptocurrencies_3DScatter">
+<img src = "images/Cryptocurrencies_3DScatter.png">
 
 ### Table contains class details of Cryptocurrencies
-<img src = "images/Cryptocurrencies_table">
+<img src = "images/Cryptocurrencies_table.png">
 
 ### HVPLOT Scatter with HVPLOT Table beside
-<img src = "images/hvplot">
+<img src = "images/hvplot.png">
 
 
 
